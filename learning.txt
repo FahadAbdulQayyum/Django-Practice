@@ -6,3 +6,7 @@
 6. python manage.py
 7. python manage.py runserver
 8. python manage.py startapp fahad or home
+
+9. python manage.py createsuperuser -> username(fahad), email(jasad080@gmail.com), password(fAHAD@1998)
+10. redirect to /admin and then use the above credentials for admin.
+11. 
